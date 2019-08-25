@@ -1,0 +1,21 @@
+html {
+        min-height: 100vh;
+        width: 100%;
+        max-width: 100vw;
+        margin: 0;
+        padding: 0;
+	background-color: #EAEBDF;
+}
+
+h2 {
+	color: #424848;
+}
+
+body {
+	color: #282823;
+}
+
+li {
+	color: #292930;
+}
+
